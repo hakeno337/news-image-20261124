@@ -1,4 +1,4 @@
-// The World Today — 24 November 2026.
+// The World Today — 24 November 2026, second setting.
 //
 // The whole entry is delivery: the repository holds entry.png, the
 // illustrated broadsheet drawn by compose.py, and this program copies
